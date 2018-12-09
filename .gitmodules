@@ -1,3 +1,11 @@
 [submodule "themes/temple"]
 	path = themes/temple
 	url = https://github.com/aos/temple.git
+[submodule "public/public"]
+	path = public/public
+	url = git@github.com:jamesdibley/jamesdibley.github.io.git
+	branch = master
+[submodule "public/jamesdibley.github.io"]
+	path = public/jamesdibley.github.io
+	url = git@github.com:jamesdibley/jamesdibley.github.io.git
+	branch = master
